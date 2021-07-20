@@ -1,3 +1,9 @@
+2.4.2 - 2021-??-??
+
+Security:
++ Updated Newtonsoft.Json dependency for DOS vulnerability - see https://alephsecurity.com/vulns/aleph-2018004
+
+
 2.4.1 - 2018-??-??
 
 Fixes:
